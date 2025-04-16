@@ -21,8 +21,7 @@ import java.util.regex.Pattern;
 
 /**
  * Implementation of a monitor specific to SQLServer. Uses SQLServer's system tables to extract
- * relevant query and system information. Note: Requires "VIEW SERVER PERFORMANCE STATE"
- * permissions.
+ * relevant query and system information.
  */
 public class SQLServerMonitor extends DatabaseMonitor {
 

@@ -15,6 +15,7 @@
  *
  */
 
+/** */
 package com.oltpbenchmark.types;
 
 public enum State {
